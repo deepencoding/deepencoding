@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 <h1 align="center">🤖 Deepencoding</h1>
 <h3 align="left">🪚 A Digital Craftsmanᵀᴹ (Software/Web Developer)</h3>
