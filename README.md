@@ -42,3 +42,9 @@ Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=dark&locale=en" alt="deepencoding" />
 </p>
+
+<details>
+ <summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
+   In my coding journey, I started during my school days, immersing myself in the world of Python. As I stepped into college, I eagerly embraced C/C++, and in my second year, web development piqued my interest. I am aiming to secure a software engineering job. Alongside my College, I found solace and success in Competitive Programming. I am a Junior in college with High aspirations. Streamlining my efforts, I stand prepared to chase greatness in the realm of software development. Keep an eye out, as my journey persists, fueled by the determination to make an enduring impact.
+
+[website]: https://deepencoding.github.io/personal-website/
