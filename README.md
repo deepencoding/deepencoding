@@ -3,6 +3,7 @@
 <h1 align="center">🤖 Deepencoding</h1>
 <h3 align="left">🪚 A Digital Craftsmanᵀᴹ (Software/Web Developer)</h3>
 
+<img style="padding:'50px'" align="right" width="300" src="/cat.gif" alt="my GIF cat">
 Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and full-stack engineer. Currently in my third year of pursuing a B.Tech in Electronics and Communication Engineering, I am dedicated to honing my technical expertise and contributing to innovative projects. With a strong foundation in programming and a keen eye for problem-solving, I strive to create efficient and reliable solutions. Welcome to my GitHub, where you'll find a collection of my projects and contributions to the world of software development.
 #
 
