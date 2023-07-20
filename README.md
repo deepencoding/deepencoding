@@ -36,13 +36,8 @@ Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and
 
 ### 📊 Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepencoding&show_icons=true&theme=dark&locale=en&layout=compact" alt="deepencoding" />
-</p>
+![Deepencoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=gruvbox)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=dark&locale=en" alt="deepencoding" />
-</p>
 
 <details>
  <summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
