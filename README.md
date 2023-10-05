@@ -4,15 +4,22 @@
 <h3 align="left">🪚 A Digital Craftsmanᵀᴹ (Software/Web Developer)</h3>
 
 <img style="padding:'50px'" align="right" width="200" src="/cat.gif" alt="my GIF cat">
-Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and full-stack engineer. Currently in my third year of pursuing a B.Tech in Electronics and Communication Engineering, I am dedicated to honing my technical expertise and contributing to innovative projects. With a strong foundation in programming and a keen eye for problem-solving, I strive to create efficient and reliable solutions. Welcome to my GitHub, where you'll find a collection of my projects and contributions to the world of software development.
+- Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and full-stack engineer.<br>
+- Currently in my third year of pursuing a B.Tech in Electronics and Communication Engineering, I am dedicated to honing my technical expertise and contributing to innovative projects.<br>
+- With a strong foundation in programming and a keen eye for problem-solving, I strive to create efficient and reliable solutions.<br>
+- Welcome to my GitHub, where you'll find a collection of my projects and contributions to the world of software development.<br>
+- 📝 I regularly write at my <a href="https://deepencoding.hashnode.dev/" target="_blank">hashnode blog</a><br>
+
 #
 
 <h3 align="left">👀 Check me out:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/deepanshu-gautam-33385b144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-gautam-33385b144" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/deepencoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepencoding" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/ipizzapro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ipizzapro" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/deepencoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepencoding" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/deepanshu-gautam-33385b144" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-gautam-33385b144" height="30" width="40" /></a>
+  <a href="https://twitter.com/deepencoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepencoding" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@deepencoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deepencoding" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/deepencoding" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepencoding" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/deepencoding" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepencoding" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/ipizzapro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ipizzapro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
@@ -38,9 +45,16 @@ Hello, I'm Deepanshu Gautam, a passionate and skilled C++ software developer and
 
 ![Deepencoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=gruvbox)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepencoding&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+#
 
 <details>
- <summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
-   In my coding journey, I started during my school days, immersing myself in the world of Python. As I stepped into college, I eagerly embraced C/C++, and in my second year, web development piqued my interest. I am aiming to secure a software engineering job. Alongside my College, I found solace and success in Competitive Programming. I am a Junior in college with High aspirations. Streamlining my efforts, I stand prepared to chase greatness in the realm of software development. Keep an eye out, as my journey persists, fueled by the determination to make an enduring impact.
+<summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
+In my coding journey, I started during my school days, immersing myself in the world of Python. As I stepped into college, I eagerly embraced C/C++, and in my second year, web development piqued my interest. I am aiming to secure a software engineering job. Alongside my College, I found solace and success in Competitive Programming. I am a Junior in college with High aspirations. Streamlining my efforts, I stand prepared to chase greatness in the realm of software development. Keep an eye out, as my journey persists, fueled by the determination to make an enduring impact.
+</details>
 
-[website]: https://deepencoding.github.io/personal-website/
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=deepencoding&label=Profile%20Views&pretty=true" />
+</a>
