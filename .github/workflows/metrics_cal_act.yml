@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics_activity
+name: Metrics-activity
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
