@@ -74,7 +74,7 @@ In my coding journey, I started during my school days, immersing myself in the w
   <img src="https://visitcount.itsvg.in/api?id=deepencoding&label=Profile%20Views&pretty=true" />
 </a>
 
-# Blog posts
+### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
