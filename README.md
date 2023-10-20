@@ -58,7 +58,8 @@
 
 ### 📊 Stats
 
-![Deepencoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=gruvbox)
+![Deepencoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=radical)
+![Anurag's GitHub stats]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepencoding&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
