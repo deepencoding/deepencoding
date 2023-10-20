@@ -74,6 +74,10 @@ In my coding journey, I started during my school days, immersing myself in the w
   <img src="https://visitcount.itsvg.in/api?id=deepencoding&label=Profile%20Views&pretty=true" />
 </a>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 
 
 <br clear="both"> 
