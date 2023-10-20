@@ -76,6 +76,7 @@ In my coding journey, I started during my school days, immersing myself in the w
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Word Indexer Project in C++](https://deepencoding.hashnode.dev/word-indexer-project-in-cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 
