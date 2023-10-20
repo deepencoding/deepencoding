@@ -73,3 +73,11 @@ In my coding journey, I started during my school days, immersing myself in the w
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=deepencoding&label=Profile%20Views&pretty=true" />
 </a>
+
+### 
+
+<br clear="both"> 
+
+<img src="https://raw.githubusercontent.com/deepencoding/deepencoding/output/snake.svg" alt="Snake animation" /> 
+
+###
