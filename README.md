@@ -65,7 +65,7 @@
 - [Making a Word Indexer Project in C++](https://deepencoding.hashnode.dev/word-indexer-project-in-cpp)
 <!-- BLOG-POST-LIST:END -->
 
-###
+<hr>
 
 <img src="https://github.com/deepencoding/deepencoding/blob/main/github-metrics.png" alt="Metrics" width="100%">
 <!--https://github.com/deepencoding/deepencoding/blob/main/github-metrics.svg-->
