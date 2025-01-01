@@ -7,8 +7,8 @@
 
 <img style="padding:'50px'" align="right" width="200" src="/cat.gif" alt="my GIF cat">
 
-- 🎖️ I'm Deepanshu, a passionate and skilled C++ software developer and full-stack engineer.<br>
-- 📚 Currently in my third year of pursuing a B.Tech in Electronics and Communication Engineering, I am dedicated to honing my technical expertise and contributing to innovative projects.<br>
+- 🎖️ I'm Deepanshu, a passionate and skilled C++ software engineer.<br>
+- 📚 Currently in my fourth year of pursuing a B.Tech in Electronics and Communication Engineering, I am dedicated to honing my technical expertise and contributing to innovative projects.<br>
 - 📝 With a strong foundation in programming and a keen eye for problem-solving, I strive to create efficient and reliable solutions.<br>
 - 🪩 Welcome to my GitHub, where you'll find a collection of my projects and contributions to the world of software development.<br>
 - ✍️ I sometimes write at my hashnode <a href="https://deepencoding.hashnode.dev/" target="_blank">blog</a>.<br>
