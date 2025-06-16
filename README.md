@@ -31,7 +31,7 @@ Welcome to the repo zone. Expect code, caffeine (I don't actually drink coffee),
 </p>
 
 <summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
-I began coding in school — because who _wouldn’t_ choose writing Python scripts over social interaction? While most kids were learning how to format Word documents, I was busy writing recursive functions and pretending `import this` was a personality trait.
+I began coding in school — because who wouldn’t choose writing Python scripts over social interaction? While most kids were learning how to format Word documents, I was busy writing recursive functions and pretending `import this` was a personality trait.
 
 College hit, and I thought, “Wow, C and C++! Finally, a language that lets me manage memory manually and leak it proudly.” By second year, I got into web dev — not because I love HTML, but because I **deeply** enjoy debugging CSS issues that only appear in Safari at 2am.
 
