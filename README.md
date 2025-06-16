@@ -3,7 +3,7 @@
 <hr>
 
 <h1 align="center">🤖 Deepencoding</h1>
-<h3 align="left">🪚 A Software Artisanᵀᴹ (Engineer)</h3>
+<h3 align="left">🪚 Software Artisanᵀᴹ (Engineer)</h3>
 
 <img style="padding:'50px'" align="right" width="200" src="/cat.gif" alt="my GIF cat">
 
