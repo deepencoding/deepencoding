@@ -7,11 +7,11 @@
 
 <img style="padding:'50px'" align="right" width="200" src="/cat.gif" alt="my GIF cat">
 
-🎖️ I'm Deepanshu — a self-hosted, garbage-collected, hot-reloading full-stack engineer operating at **near** real-time.
+🎖️ I'm Deepanshu, -- a self-hosted, garbage-collected, hot-reloading full-stack engineer operating at **near** real-time.
 
-I build Enterprise clones from scratch because “what if I'm better?”, rewrite interpreters in Rust just to flex on Java (Sorry, not sorry), and spin up FFmpeg-powered video pipelines faster than your CI can finish a lint pass (Like why is it so slow). My backends don’t crash — they autoscale **out of shame**.
+I build Enterprise clones from scratch because “what if I'm better?”, rewrite interpreters in Rust just to flex on Java (Sorry, not sorry), and spin up FFmpeg-powered video pipelines faster than your CI can finish a lint pass (Like why is it so slow). My backends don’t crash, they autoscale **out of shame**.
 
-I don't "use" Firestore and Cloud Run — I orchestrate them like a distributed symphony with Dockerized instruments and tRPC conducting the frontend. My SvelteKit portfolio? Pre-rendered perfection with pixel-perfect SEO and Markdown-it plugins tuned tighter than your async codebase. And don't ask me what any of this means.
+I don't "use" Firestore and Cloud Run, I orchestrate them like a distributed symphony with Dockerized instruments and tRPC conducting the frontend. My SvelteKit portfolio? Pre-rendered perfection with pixel-perfect SEO and Markdown-it plugins tuned tighter than your async codebase. And don't ask me what any of this means.
 
 I once replaced an entire ML data pipeline with a 200-line GStreamer shell script and a C++ face extractor running at 90 FPS, because Python had the audacity to be “interpreted”.
 
@@ -31,13 +31,13 @@ Welcome to the repo zone. Expect code, caffeine (I don't actually drink coffee),
 </p>
 
 <summary><h3>👨‍💻 Deepencoding's Journey</h3></summary>
-I began coding in school — because who wouldn’t choose writing Python scripts over social interaction? While most kids were learning how to format Word documents, I was busy writing recursive functions and pretending `import this` was a personality trait.
+I began coding in school, because who wouldn’t choose writing Python scripts over social interaction? While most kids were learning how to format Word documents, I was busy writing recursive functions and pretending <code>import this</code> was a personality trait.
 
-College hit, and I thought, “Wow, C and C++! Finally, a language that lets me manage memory manually and leak it proudly.” By second year, I got into web dev — not because I love HTML, but because I **deeply** enjoy debugging CSS issues that only appear in Safari at 2am.
+College hit, and I thought, “Wow, C and C++! Finally, a language that lets me manage memory manually and leak it proudly.” By second year, I got into web dev, not because I love HTML, but because I **deeply** enjoy debugging CSS issues that only appear in Safari at 2am.
 
-At some point, I made the questionable decision to try Competitive Programming — because nothing screams "fun" like spending your weekends figuring out why your O(n log n) solution TLEs on test case #143.
+At some point, I made the questionable decision to try Competitive Programming, because nothing screams "fun" like spending your weekends figuring out why your O(n log n) solution TLEs on test case #143.
 
-Now, I’ve graduated college — but let’s be real, titles don’t matter when you’ve already built more backend infrastructure than most MVPs in production. My GitHub is a shrine to unfinished side projects, optimized Dockerfiles, and the occasional “refactor everything at once” commit that will either win awards or crash CI.
+Now, I’ve graduated college, but let’s be real, titles don’t matter when you’ve already built more backend infrastructure than most MVPs in production. My GitHub is a shrine to unfinished side projects, optimized Dockerfiles, and the occasional "refactor everything at once" commit that will either win awards or crash CI.
 
 I’m aiming for a software engineering job (Lowkey hire me), mostly so I can argue about REST vs GraphQL in a professional setting. My dream? To make something so technically sound that someone forks it just to understand what went wrong in their own life.
 
