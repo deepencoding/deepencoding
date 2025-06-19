@@ -41,7 +41,7 @@ Now, I’ve graduated college — but let’s be real, titles don’t matter whe
 
 I’m aiming for a software engineering job (Lowkey hire me), mostly so I can argue about REST vs GraphQL in a professional setting. My dream? To make something so technically sound that someone forks it just to understand what went wrong in their own life.
 
-Keep watching — I’m not chasing greatness. I’m **unit testing** it.
+Keep watching, I’m not chasing greatness. I’m **unit testing** it.
 
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=radical)
