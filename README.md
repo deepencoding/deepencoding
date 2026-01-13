@@ -4,7 +4,7 @@
 <img style="display:flex;float:left;margin-right:20px;padding:5rem" align=right width="20%" src="/cat.gif" alt="my GIF cat">
 <div style="word-wrap:break-word">
   Engineer.
-  I learned programming initially because it was popping but I have found a sorts of power and comfort in programming, something I can use to explore my creativity. Originally, I used to think that softwares were analytical and I had learn something like art (I am absolutely horrible at art) but I realized basically everything in software came from the mind of a person just thinking creatively and differently, pretty much it.
+  I learned programming initially because it was popping but I have found a sorts of power and comfort in programming, something I can use to explore my creativity. Originally, I used to think that softwares were analytical and I had to learn something like art (I am absolutely horrible at art) but I realized basically everything in software came from the mind of a person just thinking creatively and differently, pretty much it.
 </div>
 <hr>
 
