@@ -14,9 +14,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-gautam-33385b144)[![Hashnode](https://img.shields.io/badge/Hashnode-02075d?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@deepencoding)[![X](https://img.shields.io/badge/X.com-14171A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/deepencoding)
 </p>
 
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=deepencoding&show_icons=true&theme=radical)
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Word Indexer Project in C++](https://deepencoding.hashnode.dev/word-indexer-project-in-cpp)
